@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main()
-{
-  printf("Hello World");
+int main(){
+
+print("How Are You?");
 
   return 0;
 }
